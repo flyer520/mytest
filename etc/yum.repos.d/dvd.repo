@@ -1,0 +1,7 @@
+[rhel6.5]
+name=Red Hat Enterprise Linux $releasever - $basearch - Source
+baseurl=file:///dvd
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release
+
